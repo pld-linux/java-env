@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Applications
 Source0:	%{name}.tgz
+# Source0-md5:	1ec5435d5d9e420a612cba6d722156a0
 #URL:		http://www.pld.org.pl/
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
