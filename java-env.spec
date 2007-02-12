@@ -1,5 +1,5 @@
 Summary:	Java environment scripts
-Summary(pl):	Skrypty ¶rodowiskowe dla Javy
+Summary(pl.UTF-8):   Skrypty Å›rodowiskowe dla Javy
 Name:		java-env
 Version:	0.1
 Release:	1
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Java environment scripts.
 
-%description -l pl
-Skrypty ¶rodowiskowe dla Javy.
+%description -l pl.UTF-8
+Skrypty Å›rodowiskowe dla Javy.
 
 %prep
 %setup -q -n %{name}
