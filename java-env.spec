@@ -1,5 +1,5 @@
 Summary:	Java environment scripts
-Summary(pl.UTF-8):   Skrypty środowiskowe dla Javy
+Summary(pl.UTF-8):	Skrypty środowiskowe dla Javy
 Name:		java-env
 Version:	0.1
 Release:	1
